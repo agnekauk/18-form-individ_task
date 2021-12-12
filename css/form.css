@@ -1,0 +1,72 @@
+.form {
+    display: inline-block;
+    width: calc(100% - 60px);
+    margin-top: 20px;
+    margin-left:30px;
+    margin-right:30px;
+    position: relative;
+}
+.form > .form-row-left {
+    display: inline-block;
+    float:left;
+    width: 50%;
+    margin-bottom: 20px;
+    padding-right:15px;
+}
+.form > .form-row-left > input {
+    display:inline-block;
+    width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    padding-bottom: 7px;
+    border: none;
+    border-bottom: 1.5px solid #6E7178;
+}
+.form > .form-row-left > input:focus {
+    outline: none;
+}
+.form > .form-row-right {
+    display: inline-block;
+    width: 50%;
+    margin-bottom: 20px;
+    padding-left: 15px;
+}
+.form > .form-row-right > input {
+    display:inline-block;
+    width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    padding-bottom: 7px;
+    border: none;
+    border-bottom: 1.5px solid #6E7178;
+}
+.form > .form-row-right > input:focus {
+    outline: none;
+}    
+.form > .form-row-long {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.form > .form-row-long > input {
+    display:inline-block;
+    width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    padding-bottom: 7px;
+    border: none;
+    border-bottom: 1.5px solid #6E7178;
+}
+.form > .form-row-long > input:focus {
+    outline: none;
+}  
+.form input::placeholder {
+    font-size: 12px;
+    color: #6E7178;
+    text-transform: capitalize;
+}
+.form > .form-bottom-row {
+    display:inline-block;
+    width: 100%;
+    margin-bottom: 30px;
+}
