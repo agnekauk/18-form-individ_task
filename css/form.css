@@ -1,13 +1,12 @@
 .form {
     display: inline-block;
-    width: width: calc(100% - 60px);
+    width: calc(100% - 60px);
     margin-top: 30px;
     margin-left:30px;
     margin-right:30px;
 }
 .form > .form-row-right {
     display: inline-block;
-    float:left;
     width: 50%;
     margin-bottom: 20px;
     padding-left: 15px;

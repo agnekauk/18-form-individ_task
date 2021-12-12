@@ -25,6 +25,7 @@ body {
     display: inline-block;
     width: calc(100% - 60px);
     font-size: 28px;
+    text-transform: capitalize;
     margin-top: 30px;
     margin-left: 30px;
     margin-right:30px;
@@ -47,6 +48,7 @@ body {
     text-decoration: none;
     color: #6E7178;
     text-transform: uppercase;
+    text-align: center;
     padding: 15px;
     padding-left: 50px;
     padding-right: 50px;
@@ -55,14 +57,19 @@ body {
     font-weight: bolder;
     cursor: pointer;
     margin-top: 30px;
+    border: 0.5px solid #E6E9F0;
     border-bottom: 4px solid transparent;
 }
 .link:hover {
     border-color: #613BEA;
+    border-top: transparent;
+    border-right: transparent;
+    border-left:transparent;
     color:#613BEA;
 }
 .text {
     display: inline-block;
+    width: 100%;
     font-size: 14px;
     color: #6E7178;
     margin-top: 40px;
