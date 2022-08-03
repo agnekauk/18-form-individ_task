@@ -22,7 +22,7 @@ Design: [Forma](https://www.netsolutions.com/insights/wp-content/uploads/2021/05
 -   ***Image***
 -   ***Web content***
 -   ***CSS position absolute***
-
+-   ***Responsive design***
 
 
 ### Authors
