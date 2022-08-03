@@ -7,23 +7,20 @@
 
 _32 group website project_
 
-This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! ***Thank you for your cooperation!***
+This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! **_Thank you for your cooperation!_**
 
-Site published at: https://agnekauk.github.io/nd-forma/
+Site published at: https://agnekauk.github.io/18-form-individ_task/
 
 Design: [Forma](https://www.netsolutions.com/insights/wp-content/uploads/2021/05/form-design-best-practices-break-up-forms-into-multiple-steps.jpg)
 
-
-
 ## Project features
 
--   ***Github pages***
--   ***CSS***
--   ***Image***
--   ***Web content***
--   ***CSS position absolute***
--   ***Responsive design***
-
+-   **_Github pages_**
+-   **_CSS_**
+-   **_Image_**
+-   **_Web content_**
+-   **_CSS position absolute_**
+-   **_Responsive design_**
 
 ### Authors
 
